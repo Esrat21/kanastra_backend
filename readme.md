@@ -20,7 +20,7 @@ Este projeto implementa um sistema de processamento de boletos que inclui:
 ## Configuração
 1. **Clone o repositório**:
    ```bash
-   git https://github.com/Esrat21/kanastra_backend
+   git clone https://github.com/Esrat21/kanastra_backend
    cd kanastra_backend
    ```
 

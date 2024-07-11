@@ -8,7 +8,6 @@
 - [Testes](#testes)
 - [Estrutura do CSV](#estrutura-do-csv)
 - [Instruções de Envio do CSV](#instruções-de-envio-do-csv)
-- [Informações Importantes](#informações-importantes)
 
 ## Sobre
 Este projeto implementa um sistema de processamento de boletos que inclui:

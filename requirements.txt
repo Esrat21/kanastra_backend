@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+pyspark
+aiofiles
+pytest
+httpx
+sqlalchemy
